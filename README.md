@@ -1,6 +1,6 @@
 # Hi 👋, I'm Yash Mishra
 
-### A passionate Javascript developer
+### A passionate ML enthusiast
 
 - 🔭 I'm currently working on **Building projects focused on deep learning and machine learning, with an emphasis on understanding transformer-based architectures and practical model implementations.**
 
