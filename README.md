@@ -310,31 +310,16 @@ AI-powered comic generation pipeline — combines language models and image gene
 ---
 <br/>
 
-## 🏆 Competitive Coding
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-yash--mishra14-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d1117)](https://leetcode.com/yash-mishra14)
-&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-yashmishra1408-2EC866?style=for-the-badge&logo=hackerrank&logoColor=2EC866&labelColor=0d1117)](https://hackerrank.com/yashmishra1408)
-&nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-yashmishra1408-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46&labelColor=0d1117)](https://auth.geeksforgeeks.org/user/yashmishra1408)
-
-</div>
-
-<br/>
-
----
-
-<br/>
 
 ## 🤝 Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-yash--mishraa-ffffff?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/yash-mishraa)
+<a href="https://github.com/yash-mishraa"><img src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" /></a>
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-yashmishra1408%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:yashmishra1408@gmail.com)
+<a href="mailto:yashmishra1408@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/yash-mishra-700b2333b/"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
 
 </div>
 
@@ -345,11 +330,9 @@ AI-powered comic generation pipeline — combines language models and image gene
 <br/>
 
 <div align="center">
-
 <sub>Open to research collaborations · ML/NLP projects · Meaningful open-source work</sub>
+</div>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
-
-</div>
