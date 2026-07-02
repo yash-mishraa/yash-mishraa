@@ -147,7 +147,22 @@ DOI: https://doi.org/10.21203/rs.3.rs-9327858/v1
 ---
 
 <br/>
+## 🏆 Research Impact
 
+📘 Published in **Springer Nature** (ICTCS 2025)
+
+📄 Extended journal version available on Research Square
+
+🤖 Built a Transformer architecture from scratch for English–Hindi Neural Machine Translation
+
+🧠 Research interests include
+
+- Transformers
+- NLP
+- Large Language Models
+- Deep Learning
+- Explainable AI
+- Efficient Neural Machine Translation
 ## 🏗 Featured Projects
 
 <table>
