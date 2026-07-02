@@ -147,7 +147,7 @@ DOI: https://doi.org/10.21203/rs.3.rs-9327858/v1
 ---
 
 <br/>
-## 🏆 Research Impact
+### 🏆 Research Impact
 
 📘 Published in **Springer Nature** (ICTCS 2025)
 
@@ -163,6 +163,7 @@ DOI: https://doi.org/10.21203/rs.3.rs-9327858/v1
 - Deep Learning
 - Explainable AI
 - Efficient Neural Machine Translation
+---
 ## 🏗 Featured Projects
 
 <table>
