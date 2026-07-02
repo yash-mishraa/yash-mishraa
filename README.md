@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yash%20Mishra&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=ML%20Researcher%20%7C%20Builder%20%7C%20Open-Source%20Contributor&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0f1a,50:1a1533,100:0d0f1a&height=220&section=header&text=Yash%20Mishra&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20NLP%20Researcher%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Transformer+Architectures+%26+Attention;Building+Large+Language+Model+Systems;Neural+Machine+Translation+Research;Full-Stack+AI+Products+%E2%80%94+Idea+to+Production)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Transformer+Architectures+%E2%86%92+Research+%E2%86%92+Impact;Building+at+the+intersection+of+NLP+%26+Systems;LLMs+%7C+Deep+Learning+%7C+Neural+Networks;GATE+DA+%7C+CSE+%E2%80%94+Preparing+with+Purpose)](https://git.io/typing-svg)
+<sub>Building at the intersection of NLP research and production software.</sub>
 
 </div>
 
@@ -16,64 +16,40 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=2&width=100%" />
+### 📍 Quick Facts
 
 </div>
 
-<br/>
-
-<div align="center">
-<h2>✦ &nbsp; About &nbsp; ✦</h2>
-<p><i>ML researcher in the making — building at the intersection of systems and intelligence.</i></p>
-</div>
-
-<br/>
-
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<table align="center">
 <tr>
-<td align="right" width="120"><b>Focus</b></td>
-<td width="20"><sub>⟶</sub></td>
-<td>LLMs &nbsp;·&nbsp; Transformers &nbsp;·&nbsp; NLP &nbsp;·&nbsp; Deep Learning</td>
+<td>📍&nbsp; <b>Based in</b></td><td>New Delhi, India</td>
+<td>🎓&nbsp; <b>Education</b></td><td>B.Tech CSE (AI &amp; ML)</td>
 </tr>
-<tr><td colspan="3"><sub>&nbsp;</sub></td></tr>
 <tr>
-<td align="right"><b>Building</b></td>
-<td><sub>⟶</sub></td>
-<td>Practical ML systems with research-grade rigor</td>
+<td>🔬&nbsp; <b>Research</b></td><td>NLP &amp; Neural Machine Translation</td>
+<td>📝&nbsp; <b>Publishing</b></td><td>Published Springer Nature Author</td>
 </tr>
-<tr><td colspan="3"><sub>&nbsp;</sub></td></tr>
 <tr>
-<td align="right"><b>Preparing</b></td>
-<td><sub>⟶</sub></td>
-<td>GATE DA &nbsp;/&nbsp; CSE — depth over shortcuts</td>
+<td>🧠&nbsp; <b>Preparing for</b></td><td>GATE CSE and DA 2027 </td>
+<td>🌱&nbsp; <b>Learning</b></td><td>Advanced LLM systems &amp; RAG</td>
 </tr>
-<tr><td colspan="3"><sub>&nbsp;</sub></td></tr>
 <tr>
-<td align="right"><b>Mindset</b></td>
-<td><sub>⟶</sub></td>
-<td>Understand first. Implement second. Publish third.</td>
-</tr>
-<tr><td colspan="3"><sub>&nbsp;</sub></td></tr>
-<tr>
-<td align="right"><b>Contact</b></td>
-<td><sub>⟶</sub></td>
-<td><a href="mailto:yashmishra1408@gmail.com">yashmishra1408@gmail.com</a></td>
+<td>🤝&nbsp; <b>Open to</b></td><td colspan="3">Research collaborations &amp; open-source contributions</td>
 </tr>
 </table>
 
 <br/>
 
-<div align="center">
-<p>
-I care about understanding <b>why</b> things work — not just <b>that</b> they work.<br/>
-My work lives at the boundary of ML research and engineering:<br/>
-reading papers in the morning, writing code by noon, debugging architectures by night.<br/><br/>
-Currently focused on transformer internals, attention interpretability,<br/>
-and building systems that don't just run — but <b>generalize</b>.
-</p>
-</div>
+---
 
 <br/>
+
+## ✦ About
+
+I'm a Computer Science graduate focused on NLP and deep learning, currently taking a dedicated research year to prepare for GATE 2027 and pursue an MTech/MS in AI/ML. My background is in neural machine translation — I've co-authored research on transparent, from-scratch Transformer architectures for English-Hindi translation, built on the IIT Bombay parallel corpus.
+
+Outside research, I build full-stack products end to end: DSA learning platforms, productivity systems, real-time multiplayer apps. I like taking an idea from a whiteboard sketch to something people can actually use — reading the paper in the morning, writing the code by afternoon, shipping by night.
+
 <br/>
 
 ---
@@ -87,17 +63,17 @@ and building systems that don't just run — but <b>generalize</b>.
 <td width="50%" valign="top">
 
 **🔬 Research**
-- Attention interpretability in encoder-decoder models
-- NMT evaluation beyond BLEU — entropy & alignment analysis
-- English-Hindi translation using Transformer (IIT Bombay corpus)
+- Transformer interpretability for mid-resource NMT
+- BPE tokenization efficiency vs. WordLevel tokenization
+- English-Hindi translation on the IIT Bombay corpus
 
 </td>
 <td width="50%" valign="top">
 
 **🛠 Building**
-- Full-stack productivity & life-tracking systems
-- ML experiment dashboards with publication-quality outputs
-- Real-time multiplayer game architecture (Next.js + Supabase)
+- [CodeTrail](https://github.com/yash-mishraa/CodeTrail) — a structured DSA learning platform
+- [gate-tracker](https://github.com/yash-mishraa/gate-tracker) — a personal GATE prep tracker
+- [lifetracker-os](https://github.com/yash-mishraa/lifetracker-os) — a life/productivity OS
 
 </td>
 </tr>
@@ -105,7 +81,7 @@ and building systems that don't just run — but <b>generalize</b>.
 <td width="50%" valign="top">
 
 **📖 Studying**
-- GATE CSE & DA — Data Structures, Algorithms, Linear Algebra, Statistics
+- GATE 2027 — DSA, probability, statistics, linear algebra
 - Transformer architectures from first principles
 - LLM fine-tuning, alignment, and scaling laws
 
@@ -113,9 +89,9 @@ and building systems that don't just run — but <b>generalize</b>.
 <td width="50%" valign="top">
 
 **🌱 Exploring**
-- Efficient inference & model compression
 - Retrieval-Augmented Generation (RAG) pipelines
-- Open-source contributions in NLP tooling
+- Efficient inference & model compression
+- Vedic astrology as a personal side interest
 
 </td>
 </tr>
@@ -127,23 +103,19 @@ and building systems that don't just run — but <b>generalize</b>.
 
 <br/>
 
-## 🧠 Research & Interests
+## 🧠 Research Interests
 
 <div align="center">
 
-| Domain | What I'm Investigating |
+| Domain | Focus |
 |---|---|
-| **Neural Machine Translation** | Transformer-based seq2seq, BPE tokenization, cross-lingual transfer |
-| **Attention Mechanisms** | Interpretability, entropy analysis, alignment visualization |
-| **Large Language Models** | Architecture internals, prompt sensitivity, emergent behaviors |
-| **NLP Fundamentals** | Tokenization, embeddings, contextual representations |
-| **Deep Learning Theory** | Optimization landscapes, generalization, regularization |
+| **Neural Machine Translation** | From-scratch Transformer seq2seq, BPE tokenization, cross-lingual transfer |
+| **Attention Mechanisms** | Layer-wise interpretability, entropy analysis, alignment visualization |
+| **Large Language Models** | Architecture internals, fine-tuning, prompt sensitivity |
+| **Cross-lingual NLP** | English–Hindi translation, low/mid-resource language challenges |
+| **Deep Learning Theory** | Optimization, generalization, efficient inference |
 
 </div>
-
-<br/>
-
-> *"Research is the art of asking the right question until the answer becomes inevitable."*
 
 <br/>
 
@@ -151,82 +123,153 @@ and building systems that don't just run — but <b>generalize</b>.
 
 <br/>
 
-## 🔧 Tech Stack
+## 📖 Publications
+
+### 📘 Springer Nature Book Chapter (Published)
+
+**A Transparent Transformer Framework for English–Hindi Neural Machine Translation: Design and Preliminary Evaluation**
+
+**Conference:** ICTCS 2025  
+**Series:** Lecture Notes in Networks and Systems (LNNS)  
+**Publisher:** Springer Nature
+
+🔗 https://link.springer.com/chapter/10.1007/978-3-032-19672-9_41
+
+---
+
+### 📄 Extended Journal Version
+
+An extended version of the above work is available on Research Square with additional experiments on tokenization efficiency, uncertainty analysis, and attention interpretability.
+
+DOI: https://doi.org/10.21203/rs.3.rs-9327858/v1
+<br/>
+
+---
+
+<br/>
+
+## 🏗 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🚀 CodeTrail
+
+**A complete DSA learning ecosystem**
+
+Structured roadmap through 97 algorithmic patterns and 580+ curated problems, with cloud-synced progress tracking and analytics — built to eliminate the noise of traditional coding platforms.
+
+`Next.js 15` `React 19` `TypeScript` `Supabase` `Clerk` `Tailwind`
+
+[![Repo](https://img.shields.io/badge/-Repository-0d1117?style=for-the-badge&logo=github)](https://github.com/yash-mishraa/CodeTrail)
+[![Demo](https://img.shields.io/badge/-Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://codetrailapp.site)
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 S2S Transformer
+
+**Flagship AI/research project**
+
+An encoder-decoder Transformer built entirely from scratch — multi-head attention, sinusoidal positional encoding, causal masking — for English-Hindi NMT. Publication-backed, evaluated with BLEU, chrF, METEOR, and BERTScore.
+
+`PyTorch` `Python` `BPE Tokenization` `IITB Corpus`
+
+[![Repo](https://img.shields.io/badge/-Repository-0d1117?style=for-the-badge&logo=github)](https://github.com/saurabhkumar9901/S2S-Tranformer-Architecture-)
+
+</td>
+<td width="33%" valign="top">
+
+### 🎨 ComicCrafter AI
+
+**Generative AI storytelling pipeline**
+
+A prompt-to-comic pipeline combining a locally hosted LLM for structured story generation (intro → storyline → climax → moral) with a fine-tuned Stable Diffusion model for panel illustration.
+
+`Python` `Gradio` `LLM` `ComfyUI` `Stable Diffusion`
+
+[![Repo](https://img.shields.io/badge/-Repository-0d1117?style=for-the-badge&logo=github)](https://github.com/saurabhkumar9901/ComicCrafterAI)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## 🔧 Skills & Tech Stack
 
 <details open>
-<summary><b>Languages</b></summary>
-<br/>
+<summary><b>Languages</b></summary><br/>
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=A8B9CC)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![HTML](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
 
 </details>
 
 <details open>
-<summary><b>ML / AI</b></summary>
-<br/>
+<summary><b>Machine Learning</b></summary><br/>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8)
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=013243)
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8)
 
 </details>
 
 <details>
-<summary><b>Backend & APIs</b></summary>
-<br/>
+<summary><b>Frontend</b></summary><br/>
+
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=ffffff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
+
+</details>
+
+<details>
+<summary><b>Backend</b></summary><br/>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=ffffff)
 ![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=092E20)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=FF4B4B)
 
 </details>
 
 <details>
-<summary><b>Frontend</b></summary>
-<br/>
-
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=ffffff)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)
-
-</details>
-
-<details>
-<summary><b>Databases & Cloud</b></summary>
-<br/>
+<summary><b>Databases</b></summary><br/>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
 ![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=003B57)
 ![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=googlecloud&logoColor=4285F4)
-![Azure](https://img.shields.io/badge/Azure-0d1117?style=flat-square&logo=microsoftazure&logoColor=0078D4)
 
 </details>
 
 <details>
-<summary><b>DevOps & Tooling</b></summary>
-<br/>
+<summary><b>Cloud &amp; Tools</b></summary><br/>
 
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0d1117?style=flat-square&logo=googlecloud&logoColor=4285F4)
+![Azure](https://img.shields.io/badge/Azure-0d1117?style=flat-square&logo=microsoftazure&logoColor=0078D4)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=326CE5)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
 ![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37)
 ![Anaconda](https://img.shields.io/badge/Anaconda-0d1117?style=flat-square&logo=anaconda&logoColor=44A833)
 
@@ -239,100 +282,92 @@ and building systems that don't just run — but <b>generalize</b>.
 <br/>
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yash-mishraa&theme=github_dark" />
-&nbsp;
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yash-mishraa&theme=github_dark" />
-
-</div>
-
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yash-mishraa&theme=github_dark" width="95%" />
 
-</div>
+<br><br>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-mishraa&bg_color=0d1117&color=A78BFA&line=7C3AED&point=A78BFA&area=true&hide_border=true&radius=6" width="95%" />
-
-</div>
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=yash-mishraa&style=flat-square&color=7C3AED&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-<br/>
-
-## 🏗 Featured Projects
-
-<div align="center">
-
-<table border="0">
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 [S2S Transformer Architecture](https://github.com/saurabhkumar9901/S2S-Tranformer-Architecture-)
-> PyTorch · Python · NLP
-
-A sequence-to-sequence Transformer implementation from scratch — encoder-decoder architecture, multi-head attention, and positional encoding. Research-oriented and fully documented.
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![Transformers](https://img.shields.io/badge/Transformers-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 [ComicCrafter AI](https://github.com/saurabhkumar9901/ComicCrafterAI)
-> Python · Generative AI · LLMs
-
-AI-powered comic generation pipeline — combines language models and image generation to craft visual narratives from text prompts.
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=ffffff)
-![Generative AI](https://img.shields.io/badge/Generative_AI-0d1117?style=flat-square&logo=sparkles&logoColor=A78BFA)
-
-</td>
-</tr>
-</table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yash-mishraa&theme=github_dark" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yash-mishraa&theme=github_dark" width="48%" />
 
 </div>
 
 <br/>
 
 ---
+
 <br/>
 
+## 🏆 Highlights
+
+- 📘 Published author in **Springer Nature (ICTCS 2025)**
+- 📄 Extended journal version available on Research Square
+- 🤖 Built a Transformer architecture from scratch
+- 🚀 Creator of CodeTrail, a structured DSA learning platform
+- 🧠 Research interests: NLP, LLMs, Transformers & Deep Learning
+  
+## 📈 GitHub Activity
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yash-mishraa/yash-mishraa/output/github-contribution-grid-snake-dark.svg">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/yash-mishraa/yash-mishraa/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+<sub align="center">Generated automatically by the workflow in <code>.github/workflows/snake.yml</code> — see the bottom of this README for the file.</sub>
+
+<br/>
+
+---
+
+<br/>
+
+## 🌐 Open Source
+
+<div align="center">
+
+Open to **research collaborations**, **open-source contributions**, **hackathons**, and interesting AI/NLP projects.
+If you're working on Transformers, NMT, or LLM tooling — my inbox is open.
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 🎲 Fun Facts
+
+- ⚡ I enjoy implementing research papers from scratch rather than just using pretrained versions.
+- 📚 I care more about *why* an algorithm works than about using it as a black box.
+- ♟️ Chess enthusiast — peak rating 1901. [chess.com: KyaYaarYash](https://www.chess.com/member/KyaYaarYash) · [lichess: yashhaha](https://lichess.org/@/yashhaha)
+- 🏏 Cricket fan.
+
+<br/>
+
+---
+
+<br/>
 
 ## 🤝 Connect
 
 <div align="center">
 
 <a href="https://github.com/yash-mishraa"><img src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" /></a>
-&nbsp;
-<a href="mailto:yashmishra1408@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-&nbsp;
 <a href="https://www.linkedin.com/in/yash-mishra-700b2333b/"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="mailto:yashmishra1408@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 
 </div>
-
-<br/>
-
----
 
 <br/>
 
 <div align="center">
-<sub>Open to research collaborations · ML/NLP projects · Meaningful open-source work</sub>
+<img src="https://komarev.com/ghpvc/?username=yash-mishraa&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" />
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0f1a,50:1a1533,100:0d0f1a&height=110&section=footer" width="100%"/>
