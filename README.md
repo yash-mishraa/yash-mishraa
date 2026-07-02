@@ -46,9 +46,9 @@
 
 ## ✦ About
 
-I'm a Computer Science graduate focused on NLP and deep learning, currently taking a dedicated research year to prepare for GATE 2027 and pursue an MTech/MS in AI/ML. My background is in neural machine translation — I've co-authored research on transparent, from-scratch Transformer architectures for English-Hindi translation, built on the IIT Bombay parallel corpus.
+I am a recent **B.Tech CSE (AI & ML)** graduate currently taking a dedicated research year to prepare for **GATE CSE & DA 2027**. My work is primarily focused on **NLP Research**, where I explore **Transformer Architectures** and **Large Language Models** to build scalable and efficient systems.
 
-Outside research, I build full-stack products end to end: DSA learning platforms, productivity systems, real-time multiplayer apps. I like taking an idea from a whiteboard sketch to something people can actually use — reading the paper in the morning, writing the code by afternoon, shipping by night.
+Beyond research, I engineer **Full Stack AI Systems** end to end. I enjoy taking an idea from a whiteboard sketch to something people can actually use, combining deep learning fundamentals with modern production frameworks.
 
 <br/>
 
@@ -89,9 +89,11 @@ Outside research, I build full-stack products end to end: DSA learning platforms
 <td width="50%" valign="top">
 
 **🌱 Exploring**
-- Retrieval-Augmented Generation (RAG) pipelines
-- Efficient inference & model compression
-- Vedic astrology as a personal side interest
+- Multi-Agent Systems
+- Retrieval-Augmented Generation
+- AI Product Engineering
+- Efficient Transformers
+- LLM Applications
 
 </td>
 </tr>
@@ -125,15 +127,14 @@ Outside research, I build full-stack products end to end: DSA learning platforms
 
 ## 📖 Publications
 
-### 📘 Springer Nature Book Chapter (Published)
+### 📘 Published Springer Nature Book Chapter
 
 **A Transparent Transformer Framework for English–Hindi Neural Machine Translation: Design and Preliminary Evaluation**
 
+**Publisher:** Springer Nature  
 **Conference:** ICTCS 2025  
 **Series:** Lecture Notes in Networks and Systems (LNNS)  
-**Publisher:** Springer Nature
-
-🔗 https://link.springer.com/chapter/10.1007/978-3-032-19672-9_41
+**Publication Link:** [Springer Link](https://link.springer.com/chapter/10.1007/978-3-032-19672-9_41)
 
 ---
 
@@ -141,40 +142,45 @@ Outside research, I build full-stack products end to end: DSA learning platforms
 
 An extended version of the above work is available on Research Square with additional experiments on tokenization efficiency, uncertainty analysis, and attention interpretability.
 
-DOI: https://doi.org/10.21203/rs.3.rs-9327858/v1
+**DOI:** [10.21203/rs.3.rs-9327858/v1](https://doi.org/10.21203/rs.3.rs-9327858/v1)
+
 <br/>
 
 ---
 
 <br/>
-### 🏆 Research Impact
 
-📘 Published in **Springer Nature** (ICTCS 2025)
+## 🏆 Research Impact
 
-📄 Extended journal version available on Research Square
+- 📘 Published author in **Springer Nature (ICTCS 2025)**
+- 📄 Extended journal version available on Research Square
+- 🤖 Built a Transformer architecture from scratch for English–Hindi Neural Machine Translation
+- 🚀 Creator of CodeTrail, a structured DSA learning platform
+- 🧠 Research interests include:
+  - Transformers & Large Language Models
+  - Natural Language Processing (NLP)
+  - Deep Learning & Explainable AI
+  - Efficient Neural Machine Translation
 
-🤖 Built a Transformer architecture from scratch for English–Hindi Neural Machine Translation
+<br/>
 
-🧠 Research interests include
-
-- Transformers
-- NLP
-- Large Language Models
-- Deep Learning
-- Explainable AI
-- Efficient Neural Machine Translation
 ---
+
+<br/>
+
 ## 🏗 Featured Projects
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
+⭐ **Flagship Project**
+
 ### 🚀 CodeTrail
 
 **A complete DSA learning ecosystem**
 
-Structured roadmap through 97 algorithmic patterns and 580+ curated problems, with cloud-synced progress tracking and analytics — built to eliminate the noise of traditional coding platforms.
+Structured roadmap through 97 algorithmic patterns and 580+ curated problems, with cloud-synced progress tracking and analytics.
 
 `Next.js 15` `React 19` `TypeScript` `Supabase` `Clerk` `Tailwind`
 
@@ -184,11 +190,13 @@ Structured roadmap through 97 algorithmic patterns and 580+ curated problems, wi
 </td>
 <td width="33%" valign="top">
 
+📘 **Research Project**
+
 ### 🤖 S2S Transformer
 
 **Flagship AI/research project**
 
-An encoder-decoder Transformer built entirely from scratch — multi-head attention, sinusoidal positional encoding, causal masking — for English-Hindi NMT. Publication-backed, evaluated with BLEU, chrF, METEOR, and BERTScore.
+An encoder-decoder Transformer built entirely from scratch (co-developed) — multi-head attention, sinusoidal positional encoding, causal masking — for English-Hindi NMT. Publication-backed.
 
 `PyTorch` `Python` `BPE Tokenization` `IITB Corpus`
 
@@ -197,11 +205,13 @@ An encoder-decoder Transformer built entirely from scratch — multi-head attent
 </td>
 <td width="33%" valign="top">
 
+🤖 **Generative AI Project**
+
 ### 🎨 ComicCrafter AI
 
 **Generative AI storytelling pipeline**
 
-A prompt-to-comic pipeline combining a locally hosted LLM for structured story generation (intro → storyline → climax → moral) with a fine-tuned Stable Diffusion model for panel illustration.
+A prompt-to-comic pipeline (co-developed) combining a locally hosted LLM for structured story generation with a fine-tuned Stable Diffusion model for panel illustration.
 
 `Python` `Gradio` `LLM` `ComfyUI` `Stable Diffusion`
 
@@ -226,10 +236,7 @@ A prompt-to-comic pipeline combining a locally hosted LLM for structured story g
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
-![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=A8B9CC)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
 
 </details>
 
@@ -238,11 +245,19 @@ A prompt-to-comic pipeline combining a locally hosted LLM for structured story g
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8)
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=013243)
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458)
+
+</details>
+
+<details open>
+<summary><b>Generative AI</b></summary><br/>
+
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white)
 
 </details>
 
@@ -252,6 +267,8 @@ A prompt-to-comic pipeline combining a locally hosted LLM for structured story g
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=ffffff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
 
 </details>
 
@@ -278,12 +295,18 @@ A prompt-to-comic pipeline combining a locally hosted LLM for structured story g
 </details>
 
 <details>
-<summary><b>Cloud &amp; Tools</b></summary><br/>
+<summary><b>Cloud</b></summary><br/>
 
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-0d1117?style=flat-square&logo=googlecloud&logoColor=4285F4)
 ![Azure](https://img.shields.io/badge/Azure-0d1117?style=flat-square&logo=microsoftazure&logoColor=0078D4)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+
+</details>
+
+<details>
+<summary><b>Developer Tools</b></summary><br/>
+
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
 ![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37)
@@ -300,12 +323,16 @@ A prompt-to-comic pipeline combining a locally hosted LLM for structured story g
 ## 📊 GitHub Analytics
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yash-mishraa&theme=github_dark" width="95%" />
+<img src="https://github-readme-stats.vercel.app/api?username=yash-mishraa&theme=github_dark&show_icons=true&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-mishraa&theme=github_dark&show_icons=true&hide_border=true&layout=compact" width="48%" />
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yash-mishraa&theme=github_dark" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yash-mishraa&theme=github_dark" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-mishraa&theme=github-dark&hide_border=true" width="95%" />
+
+<br><br>
+
+<img src="https://ghchart.rshah.org/A78BFA/yash-mishraa" alt="GitHub Contribution Calendar" width="95%" />
 
 </div>
 
@@ -314,16 +341,8 @@ A prompt-to-comic pipeline combining a locally hosted LLM for structured story g
 ---
 
 <br/>
-
-## 🏆 Highlights
-
-- 📘 Published author in **Springer Nature (ICTCS 2025)**
-- 📄 Extended journal version available on Research Square
-- 🤖 Built a Transformer architecture from scratch
-- 🚀 Creator of CodeTrail, a structured DSA learning platform
-- 🧠 Research interests: NLP, LLMs, Transformers & Deep Learning
   
-## 📈 GitHub Activity
+## 📈 Contribution Snake
 
 <div align="center">
 <picture>
