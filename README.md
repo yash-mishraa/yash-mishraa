@@ -323,16 +323,12 @@ A prompt-to-comic pipeline (co-developed) combining a locally hosted LLM for str
 ## 📊 GitHub Analytics
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yash-mishraa&theme=github_dark&show_icons=true&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-mishraa&theme=github_dark&show_icons=true&hide_border=true&layout=compact" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yash-mishraa&theme=github_dark&show_icons=true&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yash-mishraa&theme=github_dark&show_icons=true&hide_border=true&layout=compact" width="48%" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-mishraa&theme=github-dark&hide_border=true" width="95%" />
-
-<br><br>
-
-<img src="https://ghchart.rshah.org/A78BFA/yash-mishraa" alt="GitHub Contribution Calendar" width="95%" />
+<img src="https://streak-stats.demolab.com/?user=yash-mishraa&theme=github-dark&hide_border=true" width="95%" />
 
 </div>
 
