@@ -67,7 +67,7 @@ My core research obsession is **Transformer architectures** — building them fr
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yash-mishraa/yash-mishraa/main/assets/neural-network-animated.svg" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/yash-mishraa/yash-mishraa@main/assets/neural-network-animated.svg" width="100%"/>
 
 </div>
 
